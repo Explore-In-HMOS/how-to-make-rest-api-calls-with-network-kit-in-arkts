@@ -2,7 +2,7 @@
 
 # How to Make REST API Calls with Network Kit in ArkTS
 
-A HarmonyOS Next codelab app for wearable that shows how to make real REST
+A HarmonyOS codelab app for wearable that shows how to make real REST
 API calls with Network Kit. A row of buttons runs GET, POST, PUT, and DELETE
 requests against a public REST API, plus a button that triggers a 404 on purpose.
 Each call shows its HTTP status code and the parsed result. The project covers the
